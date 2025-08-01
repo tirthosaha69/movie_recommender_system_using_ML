@@ -96,12 +96,6 @@ http://127.0.0.1:5000
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of your working application here (homepage, recommendations, etc.)
-
----
-
 ## 📌 To-Do
 
 * [ ] 🚀 Deploy on Render/Heroku
